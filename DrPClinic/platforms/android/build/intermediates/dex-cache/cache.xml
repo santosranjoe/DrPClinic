@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-25.3.1_430c08b3ecf3fde8dd0d6978d8c30063f0001b7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\exploded-aar\DrPClinic\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_d38f597f8bfee6c18a4a57d5548a73e6d27414d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-25.3.1_b2f2ff6e375634ffc768ac087e0c640445ea15ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-25.3.1_bb8580b8eddd0120d67b0225f3411adfa046c0b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-25.3.1_0a6ca2dcd5aad34742190dbccac0ece7ebf02d2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-25.3.1_58f97104c43b359433690ae30efc53a38d75e8b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-25.3.1_aa4b335a0b6f5b70eff71d65bb358d4b65684665.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-25.3.1_ab12f422a77aa4b72c0e2048e37fda0df4813a9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-25.3.1_27341edf4a6bd53d37b613f0f4042ff3f036819f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-25.3.1_ab21838052321f95204e71e11b49f7cf3b917966.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-25.3.1_dedfdc555f61aa1cb607c206ece2bcedbaf09dec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_5a2ef24e3745137d7db9aa945a5d2fca94e35e77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-25.3.1_07cc1bdab6386cc71ca9e51c0b2d242e9420314e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\exploded-aar\DrPClinic\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30b97ea5d6274e02330dcc69943087778363c172">
+        <dex dex="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\pre-dexed\F0\debug\DrPClinic-runtime-unspecified_e35ea6a6065507ac4fb7eda5bffe72565ec1277d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-25.3.1_2426be5cf40939320b667895c4ad6a8083348b3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\RanJoemar\Desktop\NativeScriptProjects\DrPClinic\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-25.3.1_8bca3555486113554a4ab69600b43918db381dce.jar" />
+    </item>
+
+</items>
